@@ -1,0 +1,23 @@
+/*form'cheval'*/
+/*base de départ = blue*/
+.blue.cheval {
+    transform: translate(-270px, -125px) rotate(90deg);
+}
+.red.cheval  {
+    transform: translate(35px, -110px) rotate(135deg);
+    }
+.yellow.cheval  {
+    transform: translate(170px, -15px) rotate(90deg);
+}
+.green.cheval  {
+    transform: translate(-130px, 45px) rotate(360deg) skew(-45deg);
+}
+.purple.cheval {
+    transform: translate(-140px, -90px) rotate(360deg);
+}
+.brown.ours {
+    transform: translate(-5px, -70px) rotate(180deg);
+}
+.orange.cheval  {
+    transform: translate(-229px, -65px) rotate(315deg);
+}
