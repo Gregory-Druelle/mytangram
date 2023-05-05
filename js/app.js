@@ -17,9 +17,9 @@ function AddFigures() {
 
     //Change names of buttons
     document.querySelector("#btnOne").innerHTML = "Carré";
-    document.querySelector("#btnTwo").innerHTML = "2";
+    document.querySelector("#btnTwo").innerHTML = "Cat";
     document.querySelector("#btnThree").innerHTML = "Bateau";
-    document.querySelector("#btnFour").innerHTML = "4";
+    document.querySelector("#btnFour").innerHTML = "Dog";
     document.querySelector("#btnFive").innerHTML = "Ours";
     document.querySelector("#btnSix").innerHTML = "Cheval";
     document.querySelector("#btnSeven").innerHTML = "Papillon";
@@ -112,13 +112,13 @@ document.getElementById("btnTwo").addEventListener('click', function() {
 
 //
 document.getElementById("btnThree").addEventListener('click', function() {
-    document.querySelector(".red").setAttribute('class', 'figure red boat');
-    document.querySelector(".green").setAttribute('class', 'figure green boat');
-    document.querySelector(".blue").setAttribute('class', 'figure blue boat');
-    document.querySelector(".yellow").setAttribute('class', 'figure yellow boat');
-    document.querySelector(".purple").setAttribute('class', 'figure purple boat');
-    document.querySelector(".brown").setAttribute('class', 'figure brown boat');
-    document.querySelector(".orange").setAttribute('class', 'figure orange boat');
+    document.querySelector(".red").setAttribute('class', 'figure red Boat');
+    document.querySelector(".green").setAttribute('class', 'figure green Boat');
+    document.querySelector(".blue").setAttribute('class', 'figure blue Boat');
+    document.querySelector(".yellow").setAttribute('class', 'figure yellow Boat');
+    document.querySelector(".purple").setAttribute('class', 'figure purple Boat');
+    document.querySelector(".brown").setAttribute('class', 'figure brown Boat');
+    document.querySelector(".orange").setAttribute('class', 'figure orange Boat');
 });
 
 //
