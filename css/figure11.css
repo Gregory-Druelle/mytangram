@@ -1,22 +1,22 @@
-/*form'cheval'*/
-.blue.cheval {
+/*form'serpent'*/
+.blue.serpent {
     transform: translate(-270px, -125px) rotate(90deg);
 }
-.red.cheval  {
+.red.serpent  {
     transform: translate(230px, -70px) rotate(450deg);
 }
-.yellow.cheval  {
+.yellow.serpent  {
     transform: translate(70px, 85px) rotate(180deg);
 }
-.green.cheval  {
+.green.serpent  {
     transform: translate(345px, 47px) rotate(405deg) skew(-45deg);
 }
-.purple.cheval {
+.purple.serpent {
     transform: translate(-140px, -90px) rotate(360deg);
 }
-.brown.cheval {
+.brown.serpent {
     transform: translate(-5px, -70px) rotate(180deg);
 }
-.orange.cheval  {
+.orange.serpent  {
     transform: translate(-229px, -65px) rotate(315deg);
 }

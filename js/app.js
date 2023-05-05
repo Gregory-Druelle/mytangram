@@ -101,35 +101,35 @@ document.getElementById("btnOne").addEventListener('click', function() {
 
 //
 document.getElementById("btnTwo").addEventListener('click', function() {
-    document.querySelector(".red").setAttribute('class', 'figure red ');
-    document.querySelector(".green").setAttribute('class', 'figure green ');
-    document.querySelector(".blue").setAttribute('class', 'figure blue ');
-    document.querySelector(".yellow").setAttribute('class', 'figure yellow ');
-    document.querySelector(".purple").setAttribute('class', 'figure purple ');
-    document.querySelector(".brown").setAttribute('class', 'figure brown ');
-    document.querySelector(".orange").setAttribute('class', 'figure orange ');
+    document.querySelector(".red").setAttribute('class', 'figure red cat');
+    document.querySelector(".green").setAttribute('class', 'figure green cat');
+    document.querySelector(".blue").setAttribute('class', 'figure blue cat');
+    document.querySelector(".yellow").setAttribute('class', 'figure yellow cat');
+    document.querySelector(".purple").setAttribute('class', 'figure purple cat');
+    document.querySelector(".brown").setAttribute('class', 'figure brown cat');
+    document.querySelector(".orange").setAttribute('class', 'figure orange cat');
 });
 
 //
 document.getElementById("btnThree").addEventListener('click', function() {
-    document.querySelector(".red").setAttribute('class', 'figure red ');
-    document.querySelector(".green").setAttribute('class', 'figure green ');
-    document.querySelector(".blue").setAttribute('class', 'figure blue ');
-    document.querySelector(".yellow").setAttribute('class', 'figure yellow ');
-    document.querySelector(".purple").setAttribute('class', 'figure purple ');
-    document.querySelector(".brown").setAttribute('class', 'figure brown ');
-    document.querySelector(".orange").setAttribute('class', 'figure orange ');
+    document.querySelector(".red").setAttribute('class', 'figure red boat');
+    document.querySelector(".green").setAttribute('class', 'figure green boat');
+    document.querySelector(".blue").setAttribute('class', 'figure blue boat');
+    document.querySelector(".yellow").setAttribute('class', 'figure yellow boat');
+    document.querySelector(".purple").setAttribute('class', 'figure purple boat');
+    document.querySelector(".brown").setAttribute('class', 'figure brown boat');
+    document.querySelector(".orange").setAttribute('class', 'figure orange boat');
 });
 
 //
 document.getElementById("btnFour").addEventListener('click', function() {
-    document.querySelector(".red").setAttribute('class', 'figure red ');
-    document.querySelector(".green").setAttribute('class', 'figure green ');
-    document.querySelector(".blue").setAttribute('class', 'figure blue ');
-    document.querySelector(".yellow").setAttribute('class', 'figure yellow ');
-    document.querySelector(".purple").setAttribute('class', 'figure purple ');
-    document.querySelector(".brown").setAttribute('class', 'figure brown ');
-    document.querySelector(".orange").setAttribute('class', 'figure orange ');
+    document.querySelector(".red").setAttribute('class', 'figure red dog');
+    document.querySelector(".green").setAttribute('class', 'figure green dog');
+    document.querySelector(".blue").setAttribute('class', 'figure blue dog');
+    document.querySelector(".yellow").setAttribute('class', 'figure yellow dog');
+    document.querySelector(".purple").setAttribute('class', 'figure purple dog');
+    document.querySelector(".brown").setAttribute('class', 'figure brown dog');
+    document.querySelector(".orange").setAttribute('class', 'figure orange dog');
 });
 
 //ours figure
